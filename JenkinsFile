@@ -1,0 +1,21 @@
+pipeline{
+        agent any
+        stages{
+            stage('Testing'){
+                steps{
+                    sh "bash scripts/test.sh"
+                }
+            }
+            stage('Building containers'){
+                steps{
+                    sh "docker login -u ${DOCKERHUB_LOGIN_USR} -P ${DOCKERHUB_LOGIN_PSW}"
+                    sh "bash scripts/containers.sh"
+                }
+            }
+            stage('Deploying'){
+                steps{
+                    sh "bash scripts/deploy.sh"
+                }
+            }
+        }
+}
