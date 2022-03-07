@@ -1,4 +1,4 @@
-# QA-Project-App
+### QA-Project-App
 ## Objective for this Project
 
 To create a simple app consisting of three services that function together. the idea is based on providing a list of information for each of the services once each individual one is chosen but are interlinked so can be amended when ever needed.
