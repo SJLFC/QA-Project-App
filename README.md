@@ -25,3 +25,7 @@ My Entity Relationship Diagram consists of two tables
 ## Risk Assesment#
 
 ! [image2] (Risk Assessment.xlsx)
+
+## Problems/Issues##
+
+I was able to get the webhook working with jenkins and build shell with a successful working console output, however i struggled getting docker files working correectly as well as accessing the app through ports. there is still plenty of configuring needed to get this app working fully. 
