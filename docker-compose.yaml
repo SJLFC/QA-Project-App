@@ -1,6 +1,6 @@
 version: "3.8"
 services:
-  flask-app:
+  qa-Project-App:
     build: ./qa-Project-App
     ports:
     - target: 5000
