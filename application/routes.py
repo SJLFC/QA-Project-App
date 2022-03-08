@@ -1,9 +1,7 @@
-from tkinter.tix import Form
-from turtle import title
 from flask import render_template, url_for, redirect, request
-from application.templates.application import app, db
+from application import app, db
 from application.models import Gym
-from application.templates.application.forms import OrderGym, GymForm
+from application.forms import OrderGym, GymForm
 
 
 @app.route('/', methods=['POST', 'GET'])
