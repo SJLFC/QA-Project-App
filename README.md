@@ -20,7 +20,7 @@ I used Trello as the service to manage my project. This service helped keep task
 My Entity Relationship Diagram consists of two tables 
 
 
-! [image1] (file:///C:/Users/User/Documents/erd%20diagram.html)
+! [image1] (https://drive.google.com/file/d/1MO0K8nZYWx380mXIyj3z6DBxfrnsJ_by/view?usp=sharing)
 
 ## Risk Assesment
 
