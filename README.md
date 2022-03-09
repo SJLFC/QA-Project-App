@@ -24,7 +24,7 @@ My Entity Relationship Diagram consists of two tables
 
 ## Risk Assesment
 
-! [image2] (https://docs.google.com/spreadsheets/d/1z5tEn9X1L-zN75nlllrfqlspxchlEut6/edit?usp=sharing&ouid=112712918467827602692&rtpof=true&sd=true)
+! [image2] (https://docs.google.com/spreadsheets/d/1z5tEn9X1L-zN75nlllrfqlspxchlEut6/edit?usp=sharing&ouid=112712918467827602692&rtpof=true&sd=true=<FILE_ID>)
 
 ## Problems/Issues
 
