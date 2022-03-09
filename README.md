@@ -19,12 +19,13 @@ I used Trello as the service to manage my project. This service helped keep task
 
 My Entity Relationship Diagram consists of two tables 
 
+I have tried uploading images but cannot get it to work.
 
 ! [image1] 
 
 ## Risk Assesment
 
-! [image2] (1z5tEn9X1L-zN75nlllrfqlspxchlEut6/edit?usp=sharing&ouid=112712918467827602692&rtpof=true&sd=true)
+! [image2] 
 
 ## Problems/Issues
 
